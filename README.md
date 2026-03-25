@@ -14,6 +14,12 @@ This repository contains my laboratory works for the university C++ course.
 - Laba2_3.cpp
 - Laba2_4.cpp
 
+- Laba3_1.cpp
+- Laba3_2.cpp
+- Laba3_3.cpp
+- Laba3_4.cpp
+- Laba3_5.cpp
+
 ## 📝 Notes
 
 Some parts of the code contain comments such as:
