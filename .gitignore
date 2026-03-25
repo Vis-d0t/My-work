@@ -4,3 +4,4 @@
 *.dSYM
 SPPython
 Classwork
+.venv/
